@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCB.API", "CCB.API\CCB.API.csproj", "{69F3BD87-4337-4DC8-9B78-06182F95BF69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCB.Shared", "CCB.Shared\CCB.Shared.csproj", "{BB4EE978-39A3-4238-89AC-4C7F64DF8ADC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69F3BD87-4337-4DC8-9B78-06182F95BF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F3BD87-4337-4DC8-9B78-06182F95BF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F3BD87-4337-4DC8-9B78-06182F95BF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4EE978-39A3-4238-89AC-4C7F64DF8ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4EE978-39A3-4238-89AC-4C7F64DF8ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4EE978-39A3-4238-89AC-4C7F64DF8ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4EE978-39A3-4238-89AC-4C7F64DF8ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
