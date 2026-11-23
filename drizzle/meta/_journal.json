@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1795206569999,
+      "tag": "0000_melted_bill_hollister",
+      "breakpoints": true
+    }
+  ]
+}

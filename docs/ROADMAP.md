@@ -126,16 +126,16 @@ De exacte structuur kan tijdens de implementatie worden verfijnd.
 
 ## 2.1 Project initialisatie
 
-- [ ] Next.js-project initialiseren.
-- [ ] TypeScript correct configureren.
-- [ ] Tailwind CSS configureren.
-- [ ] Drizzle ORM installeren en configureren.
-- [ ] MariaDB-verbinding opzetten.
-- [ ] Omgevingsvariabelen configureren.
-- [ ] Zod installeren.
-- [ ] Basis logging implementeren.
-- [ ] Foutafhandeling structureren.
-- [ ] Basis projectstructuur aanmaken.
+- [x] Next.js-project initialiseren.
+- [x] TypeScript correct configureren.
+- [x] Tailwind CSS configureren.
+- [x] Drizzle ORM installeren en configureren.
+- [x] MariaDB-verbinding opzetten.
+- [x] Omgevingsvariabelen configureren.
+- [x] Zod installeren.
+- [x] Basis logging implementeren.
+- [x] Foutafhandeling structureren.
+- [x] Basis projectstructuur aanmaken.
 
 ## 2.2 Authenticatie en accounts
 
